@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raihannaulia
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
